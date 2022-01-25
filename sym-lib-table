@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name temp)(type Legacy)(uri "C:/Users/John/Documents/arduino ocarina pcb/arduino ocarina pcb/temp.lib")(options "")(descr ""))
+  (lib (name ocarina-v1.0-rescue)(type Legacy)(uri "${KIPRJMOD}/ocarina v1.0-rescue.lib")(options "")(descr ""))
+)
